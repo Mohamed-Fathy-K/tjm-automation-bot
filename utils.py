@@ -1,5 +1,4 @@
 import requests
-
 from config import POSTS_API_URL
 
 def fetch_posts(limit=10, page=1):
